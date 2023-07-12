@@ -18,4 +18,8 @@ npx prisma init
 ....
 npx prisma generate                 # for intellisense
 npx prisma db push
+
+npx prisma migrate reset            # how to reset db
+npx prisma generate
+npx prisma db push
 ```
