@@ -9,3 +9,13 @@ npx shadcn-ui@latest add input
 ```
 
 [Clerk Authentication](https://clerk.com/)
+
+[Prisma DB-ORM](https://www.prisma.io/)
+```
+npm i -D prisma
+npm i @prisma/client
+npx prisma init
+....
+npx prisma generate                 # for intellisense
+npx prisma db push
+```
