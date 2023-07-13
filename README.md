@@ -23,3 +23,5 @@ npx prisma migrate reset            # how to reset db
 npx prisma generate
 npx prisma db push
 ```
+
+[Cloudinary](https://cloudinary.com/)
