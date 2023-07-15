@@ -16,7 +16,6 @@ const HomePage = async () => {
                     <ProductList title="Featured Products" items={products} />
                 </div>
             </div>
-
         </Container>
     )
 }
