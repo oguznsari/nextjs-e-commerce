@@ -47,3 +47,8 @@ npx create-next-app@latest ecommerce-store --typescript --tailwind --eslint
     ```
     npm i lucide-react
     ```
+
+
+---
+### Nice npm packages (extra)
+>query-string
