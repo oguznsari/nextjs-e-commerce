@@ -42,3 +42,8 @@ npx create-next-app@latest ecommerce-admin --typescript --tailwind --eslint
 ``` bash
 npx create-next-app@latest ecommerce-store --typescript --tailwind --eslint
 ```
+
+1. [Lucide React](https://lucide.dev/)
+    ```
+    npm i lucide-react
+    ```
