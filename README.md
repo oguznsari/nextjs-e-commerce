@@ -51,7 +51,10 @@ npx create-next-app@latest ecommerce-store --typescript --tailwind --eslint
     ``` bash
     npm i @headlessui/react
     ```
-
+3. [Recharts](https://recharts.org/en-US/)
+    ``` bash
+    npm i recharts
+    ```
 ---
 ### Nice npm packages (extra)
 >query-string
