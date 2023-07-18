@@ -33,7 +33,7 @@ npx create-next-app@latest ecommerce-admin --typescript --tailwind --eslint
     npx prisma db push
     ```
 
-4. [Cloudinary](https://cloudinary.com/)
+4. [Cloudinary](https://cloudinary.com/) -> Image hosting
 
 
 ---
@@ -51,7 +51,7 @@ npx create-next-app@latest ecommerce-store --typescript --tailwind --eslint
     ``` bash
     npm i @headlessui/react
     ```
-3. [Recharts](https://recharts.org/en-US/)
+3. [Recharts](https://recharts.org/en-US/) -> Sales Dashboard
     ``` bash
     npm i recharts
     ```
